@@ -1,4 +1,4 @@
-# PDF Query and Summarization App
+# PDF Query and Summarization Application RAG (Retrival Augmented Generation)
 
 This project is a **Streamlit application** designed to process PDF files, generate embeddings using **LangChain** and **Ollama Embeddings**, store the embeddings in **ChromaDB**, and allow users to query the uploaded PDF content. The app also provides summaries for the queried content using **Google Generative AI (Gemini model)**.
 
