@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+langchain-community
+chromadb
+python-dotenv
+google-generativeai
+numpy
+ollama
