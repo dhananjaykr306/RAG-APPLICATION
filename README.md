@@ -14,7 +14,7 @@ This project is a **Streamlit application** designed to process PDF files, gener
 
 2. **Ask Query**:
    - Enter a query related to the uploaded PDF content.
-   - Perform a similarity search in **ChromaDB** to retrieve the most relevant content.
+   - Perform a similarity search in **ChromaDB** vector database to retrieve the most relevant content.
    - Use **Google Generative AI** to summarize the results based on the query.
    - Store the query and the corresponding summary back into **ChromaDB** for future reference.
 
